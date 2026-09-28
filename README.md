@@ -21,6 +21,11 @@ Team-built event discovery platform for Milwaukee. The Python prototype recommen
 Differential-drive robot in ROS 2 Humble with a custom URDF/Xacro model, LiDAR-based obstacle avoidance, odometry, and TF2 transforms, visualized in RViz.
 `Python` `ROS 2` `LiDAR` `RViz`
 
+### [Paralytic Patient Health Monitoring and Alert System](https://github.com/zaidatom585/PARALYTIC-PATIENT-HEALTH-MONITORING-AND-ALERT-SYSTEM)
+Undergraduate thesis: an Arduino-based IoT system with fall detection, flex-sensor patient requests, and temperature and ECG monitoring, sending SMS alerts over GSM and uploading readings to a web dashboard over Wi-Fi.
+`Arduino` `C++` `GSM` `ESP8266` `IoT`
+
+
 ## Skills
 
 | Area | Tools |
@@ -30,7 +35,7 @@ Differential-drive robot in ROS 2 Humble with a custom URDF/Xacro model, LiDAR-b
 | Machine Learning | scikit-learn, TF-IDF, KNN, K-Means, recommendation systems |
 | Web | React, TypeScript, REST APIs, Vercel |
 | Tools & Platforms | Git, GitHub, Docker, Linux, AWS |
-| Robotics & IoT | ROS 2, RViz, LiDAR, Arduino, ESP8266 |
+| Robotics & IoT | ROS 2, RViz, LiDAR, Arduino, C++, ESP8266, GSM |
 
 ## Contact
 
