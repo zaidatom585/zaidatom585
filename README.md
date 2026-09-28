@@ -13,6 +13,10 @@ Currently open to **Data Analyst**, **Software Engineer**, and **Machine Learnin
 End-to-end pipeline that streams the Yelp Open Dataset, samples and engineers features for 10,000 businesses across 545 cities in 16 U.S. states, automates data preparation with Power Automate, and presents the results in a two-page Power BI dashboard with DAX measures.
 `Python` `pandas` `Power Automate` `Power BI` `DAX`
 
+### [Habitat Fragmentation Analysis](https://github.com/zaidatom585/Habitat-Fragmentation-Analysis)
+Python geospatial pipeline measuring how the critical habitat of 10 threatened U.S. species is fragmented, using U.S. Fish & Wildlife Service data. Computes geodesic fragment areas, clusters, and isolation distances, processing a 2.8M-point habitat layer in seconds, and compares results with the original manual Google Earth Pro analysis.
+`Python` `NumPy` `SciPy` `pandas` `GIS`
+
 ### [MKEvents: Event Recommendation System](https://github.com/zaidatom585/MKEevents)
 Team-built event discovery platform for Milwaukee. The Python prototype recommends events using TF-IDF with cosine-similarity KNN for content and K-Means clustering for location; the web app ranks events with a hybrid genre and location score. **[Live app](https://mk-eventss.vercel.app)**
 `Python` `scikit-learn` `React` `TypeScript` `PostgreSQL` `Vercel`
