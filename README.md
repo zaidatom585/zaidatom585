@@ -1,7 +1,7 @@
 # Mohammed Zaid
 
 **Data Analyst | Software Engineer | Machine Learning**
-M.S. Information Science & Technology, University of Wisconsin–Milwaukee (2026) · B.E. Electronics & Communication Engineering · Hyderabad, India
+M.S. Information Science & Technology, University of Wisconsin–Milwaukee (2026) · B.E. Electronics & Communication Engineering, Osmania University (2023) · Hyderabad, India
 
 I build data pipelines, dashboards, and applications that turn raw data into something people can use. My work spans data analytics, machine learning, full-stack development, and robotics, with academic research in cybersecurity, data privacy, and responsible AI.
 
